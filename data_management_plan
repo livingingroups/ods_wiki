@@ -1,4 +1,7 @@
-Before researchers go out into the field they have to create a data management plan and fill out a data catalogue entry form. This needs to get emailed to and approved by Angie before field work. The DMP includes all of the info that will go into the DCEF, but the DCEF is a yaml that will allow us to search across years of data, and create a database of all the Garching Data Pallette/Uploads easily. In theory, researchers could save their DMP as a .yaml using the DCEF tool and just have one file.
+Before researchers go out into the field they have to create a data management plan (DMP).
+The DMP needs to get emailed to and approved by Angie before field work. 
+The goal of the DMP is to make sure researchers think through what data will be collected, how it will be organized and named, and backed up.
+It is also closely linked to the data cataliog entry form, and much of the information used in that can be submittted with the DMP.
 
 Data Management Plan (DMP)
 For the Data Management Plan, researchers should record:
