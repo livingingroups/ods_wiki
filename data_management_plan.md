@@ -1,8 +1,20 @@
 # Data Management Plan
 Before researchers collect data and travel to the field they have to create a data management plan (DMP).
 The data management plan essentially answers three questions: the how, what and who about data collection.
-Its purpose is to help you think through how and what you are collecting, to ensure qualoty control, and help you think through what equipment you need to collect ans store information
+Its purpose is to help you think through how and what you are collecting, to ensure qualoty control, and help you think through what equipment you need to collect ans store information.
 
+## File format
+**We stromgly encourage the DMP to exist as a plain text file format that can be versioned controlled** (i.e. `.md` , `.txt` , .`Rmd` , `.txt`. 
+However, the DMP can be created in any file format you desire, if it is a barrier to entry.
+
+## Template
+Click here for a template.
+
+## Naming the DMP
+The data management plan file should be saved as `dmp_data_catalog_entry_id` where the data catalog entry id is associated with each chunk of data you intend to collect in the upcoming field trip or season. This ID carries over to the data catalog entry form.
+For example this could be `dmp_blackbuck_dec_2022.md` or `dmp_coiba_capuchin_dec_2021_jan_2022.md`
+
+## DMP Content Overview
 # Project + Field Trip Overview
 - Include project_name (if there is an associated server folder) and brief summary of goals of field trip.
 - Who is involved in the project and what are their roles?
