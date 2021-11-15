@@ -1,0 +1,62 @@
+# Data Catalog Entry: coiba_capuchins_july_2021
+data_catalog_entry_id: coiba_capuchins_july_2021
+data_catalog_entry_details_01:
+  project_name: capuchin_coiba
+  server_adress: smb://10.126.19.90/EAS_shared/capuchin_coiba/working/newdata/capuchins_coiba_july_2021
+person_01:
+  name: Brendan Barrett
+  institute: Max Planck Institute of Animal Behavior
+  email: bbarrett@ab.mpg.de
+  role: PI
+  uploader: 'Yes'
+person_02:
+  name: Zoë Goldsborough
+  institute: Max Planck Institute of Animal Behavior
+  email: zgoldsborough@ab.mpg.de
+  role: PhD Student
+  uploader: 'No'
+person_03:
+  name: Evelyn del Rosario Vargas
+  institute: STRI
+  email: ''
+  role: Field Assistant
+  uploader: 'No'
+species_1:
+  name_eng: white-faced capuchin monkey
+  name_loc: mono cariblanco
+  name_sci: Cebus imitator
+species_2:
+  name_eng: ''
+  name_loc: ''
+  name_sci: Vasula melones
+location_1:
+  country: Panama
+  region: Veraguas,
+  park: Coiba National Park
+  field_station: STRI Rancheria
+  lat_log: 7.4693 N; 81.7568 E
+dates:
+  Data Collection: 2021-07-14 - 2021-07-26
+data_type_overview:
+  data_type_1: behavioral
+  data_type_2: camera trap
+  data_type_3: DNA samples
+  data_type_4: ecological
+  data_type_5: spatial
+data_description:
+  data_desc_1: This is raw camera trap data deployed by Claudio and others in February
+    2020. It also contains data bout collected DNA samples, photos from trip, Kobo
+    collect output from camera trap and tool survey data, and csvs of raw material
+    surveys for Meredith's dissertation as well as written summaries of our field
+    trip.
+funding_sources:
+  fund_1: Humboldt Fellowship
+  fund_2: Max Planck Geschellschaft
+keywords:
+  keyword_1: capuchin
+  keyword_2: coiba
+  keyword_3: primate archaeology
+  keyword_4: camera trap
+  keyword_5: social learning
+modified_at_utc:
+- 2021-10-19 10:37:42
