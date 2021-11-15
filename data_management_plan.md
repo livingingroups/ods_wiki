@@ -8,7 +8,7 @@ Its purpose is to help you think through how and what you are collecting, to ens
 However, the DMP can be created in any file format you desire, if it is a barrier to entry.
 
 ## Template
-Click here for a template.
+[Click here for templates.](https://github.com/livingingroups/ods_wiki/tree/main/templates/dmp)
 
 ## Naming the DMP
 The data management plan file should be saved as `dmp_data_catalog_entry_id` where the data catalog entry id is associated with each chunk of data you intend to collect in the upcoming field trip or season. This ID carries over to the data catalog entry form.
