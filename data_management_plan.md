@@ -91,6 +91,7 @@ Data could be:
 5. When will you be able to back up a version on the data to the cloud or Github?
 6. When will you get the data on the MPI server?
 7. Who performs data dumping and backup?
+8. Do you have a safe way to safely transport and protect laptop or other equipment (i.e. cases)
 
 ## Link to Data Catalog Entry Form (DCEF)
 Please link to the location of the data catalog entry form or paste `.yaml` text here is possible
