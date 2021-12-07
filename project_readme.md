@@ -29,7 +29,7 @@ In the days and weeks immediately following a field trip or conclusion of a loca
 
 Aims, research questions, hypotheses, and predictions (1 paragraph)
 
-## 3. All the information from the updated Data Catalog Entry Form. 
+## 3. All the information from the updated [Data Catalog Entry Form](https://github.com/livingingroups/data_catalog_entry_form_shiny_yml/blob/master/README.md). 
 This can be linked or the file output can be pasted directly or formatted to your heart's desire.
 
 ### Species:
@@ -82,9 +82,9 @@ For each grant or fellowship that contributed to paying for the project or resea
 ## 4. Details about Data Collected and where they are Stored
 
 ### Folder Structure and Organization
-This can be updates infor from your data management plan. 
+This can be updated informatiom from your [data management plan.](https://github.com/livingingroups/ods_wiki/blob/main/data_management_plan.md) 
 Include server locations and github repos. 
-Information can be copied frpom data managemnt plan and updated.
+Information can be copied frpom data management plan and updated.
 
 ### File Naming Conventions
 
