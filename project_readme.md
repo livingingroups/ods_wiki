@@ -18,11 +18,7 @@ File format name should be 'data_catalog_entry_id__projectname__project_readme.m
 In the days and weeks immediately following a field trip or conclusion of a local study/experiment.
 
 ## Where can I find examples of project ReadMe's?
-In this folder you can templates.
-
-Below are examples from other reearcher's projects.
-1. Kat's Bonobo Project
-2. Brendan's Coiba or Woodrat Project
+[In this folder you can templates.](https://github.com/livingingroups/ods_wiki/tree/main/templates/project_readme)
 
 # What should I include in the Project ReadMe?
 
@@ -146,14 +142,11 @@ This can go in your paper anyway, and writing it up now will save headache down 
 
 	
 ### 8. Field Notes
-	Having a text file of useful field notes would be a good idea, aprticularly if someone pick up your project or visits your site in the future.
-	This can also include helpful contacts (i.e. cab drivers, friends), places(safe places to stay, restaurants), stores (where to get the weird equipment you need in a city).
-	Perhaps things related to "the field" vs, the logistics in getting to the field could be separated. 
-	This should also include relevant permit numbers. 
+Having a text file of useful field notes would be a good idea, aprticularly if someone pick up your project or visits your site in the future.
+This can also include helpful contacts (i.e. cab drivers, friends), places(safe places to stay, restaurants), stores (where to get the weird equipment you need in a city).
 
 
-
-
+<!---
 ## Description of The Data: 
 
 ### What data (for example the kind, formats, and volumes) will be collected, produced, or re-used? 
@@ -217,3 +210,4 @@ separate locations.
 * Consider data protection, particularly if your data is sensitive (for example containing personal data, politically sensitive information, or trade secrets). Describe the main risks and how these will be managed.
 *  Explain which institutional data protection policies are in place.
 
+--->
